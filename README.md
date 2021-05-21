@@ -16,4 +16,4 @@ Aqui você vai encontrar os códigos que foram feitos durante o bootcamp da Gene
 ![Fabio GitHub status](https://github-readme-stats.vercel.app/api?username=fabiolimadiogenes&show_icons=true&theme=gotham )
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolimadiogenes&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolimadiogenes&layout=compact&theme=gotham)](https://github.com/fabiolimadiogenes/github-readme-stats)
